@@ -1,0 +1,15 @@
+D:\Object\wpfStuObject\SpeechTest\bin\Debug\SpeechTest.exe.config
+D:\Object\wpfStuObject\SpeechTest\bin\Debug\SpeechTest.exe
+D:\Object\wpfStuObject\SpeechTest\bin\Debug\SpeechTest.pdb
+D:\Object\wpfStuObject\SpeechTest\obj\Debug\SpeechTest.csproj.AssemblyReference.cache
+D:\Object\wpfStuObject\SpeechTest\obj\Debug\MainWindow.g.cs
+D:\Object\wpfStuObject\SpeechTest\obj\Debug\App.g.cs
+D:\Object\wpfStuObject\SpeechTest\obj\Debug\SpeechTest_MarkupCompile.cache
+D:\Object\wpfStuObject\SpeechTest\obj\Debug\SpeechTest_MarkupCompile.lref
+D:\Object\wpfStuObject\SpeechTest\obj\Debug\MainWindow.baml
+D:\Object\wpfStuObject\SpeechTest\obj\Debug\SpeechTest.g.resources
+D:\Object\wpfStuObject\SpeechTest\obj\Debug\SpeechTest.Properties.Resources.resources
+D:\Object\wpfStuObject\SpeechTest\obj\Debug\SpeechTest.csproj.GenerateResource.cache
+D:\Object\wpfStuObject\SpeechTest\obj\Debug\SpeechTest.csproj.CoreCompileInputs.cache
+D:\Object\wpfStuObject\SpeechTest\obj\Debug\SpeechTest.exe
+D:\Object\wpfStuObject\SpeechTest\obj\Debug\SpeechTest.pdb
