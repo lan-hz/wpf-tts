@@ -7,14 +7,11 @@
       "RelativeMoniker": "D:0:0:{721C7A40-2C25-4370-8897-54CD4176DF17}|SpeechTest.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{721C7A40-2C25-4370-8897-54CD4176DF17}|SpeechTest.csproj|d:\\object\\wpfstuobject\\speechtest\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{721C7A40-2C25-4370-8897-54CD4176DF17}|SpeechTest.csproj|D:\\Object\\wpfStuObject\\SpeechTest\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{721C7A40-2C25-4370-8897-54CD4176DF17}|SpeechTest.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|SpeechTest||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{721C7A40-2C25-4370-8897-54CD4176DF17}|SpeechTest.csproj|d:\\object\\wpfstuobject\\speechtest\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|cc4014f5-b18d-439c-9352-f99d984cca85"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,8 +32,7 @@
               "ToolTip": "D:\\Object\\wpfStuObject\\SpeechTest\\SpeechTest.csproj",
               "RelativeToolTip": "SpeechTest.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-10-28T09:16:21.679Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-28T09:16:21.679Z"
             },
             {
               "$type": "Document",
@@ -60,8 +56,7 @@
               "RelativeToolTip": "MainWindow.xaml.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAAAAEIAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T07:41:58.379Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-28T07:41:58.379Z"
             }
           ]
         }

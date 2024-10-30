@@ -5,14 +5,34 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:SpeechTest"
         mc:Ignorable="d"
-        Title="文字转音频" Height="205" Width="400" Loaded ="windows_Loaded">
+        Title="文字转音频" Height="215" Width="400" Loaded ="windows_Loaded">
     <Grid>
-        <Label Content="输入路径" FontSize="16" HorizontalAlignment="Left" Margin="21,37,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.563,-1.125"/>
-        <Label x:Name="PathBox" FontSize="14" Content="这里是路径" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="0,62,0,0" Width="342"/>
-        <Button x:Name="PathSelect" FontSize="16" Content="路径选择" HorizontalAlignment="Left" Margin="137,39,0,0" VerticalAlignment="Top" Click="pathSelect"/>
-        <Label Content="单句转换:" FontSize="16" HorizontalAlignment="Left" Margin="23,96,0,0" VerticalAlignment="Top"/>
-        <TextBox  x:Name="InputText" FontSize="14" HorizontalAlignment="Left" Margin="35,128,0,0" TextWrapping="Wrap" Text="输入文字" VerticalAlignment="Top" Width="353" TextChanged="TextBox_TextChanged"/>
-        <Button x:Name="OnceOrc" FontSize="16" Content="单句转换" HorizontalAlignment="Left" Margin="140,100,0,0" VerticalAlignment="Top" Click="OnceOrc_Click" />
+
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="20"/>
+            <ColumnDefinition />
+            
+        </Grid.ColumnDefinitions>
+
+        <StackPanel Grid.Row="0" Grid.Column ="1">
+            <Label   Content="输入路径" FontSize="16" HorizontalAlignment="Left"  VerticalAlignment="Top" />
+            <Label x:Name="PathBox" FontSize="14" Content="这里是路径" HorizontalAlignment="Left" VerticalAlignment="Top" Width="350"/>
+            <Button  x:Name="PathSelect" FontSize="16" Content="路径选择" HorizontalAlignment="Left" VerticalAlignment="Top" Click="pathSelect"/>
+        </StackPanel>
+
+        <StackPanel Grid.Row="1" Grid.Column ="1">
+            <Label  Content="单句转换:" FontSize="16" HorizontalAlignment="Left"  VerticalAlignment="Top"/>
+            <TextBox  x:Name="InputText" FontSize="14" HorizontalAlignment="Left" TextWrapping="Wrap" Text="输入文字" VerticalAlignment="Top" Width="350" Height="30" TextChanged="TextBox_TextChanged"/>
+            <Button   x:Name="OnceOrc" FontSize="16" Content="单句转换" HorizontalAlignment="Left"  VerticalAlignment="Top" Click="OnceOrc_Click" />
+        </StackPanel>
+
+      
+      
 
     </Grid>
 </Window>
